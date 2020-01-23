@@ -22,17 +22,17 @@ namespace Practical2
                     Console.WriteLine("Where are you from? : ");
                     country = Console.ReadLine();
 
-                        if (Regex.IsMatch(country, @"^[a-zA-Z]+$"))
-                        {
-                            Console.WriteLine("\nHeyy...Welcome " + name + " from country " + country);
-                            break;
-                        }
-                        else
-                        {
-                            Console.WriteLine("\nPlease enter valid Country!!");
-                            Console.ReadKey();
-                            Console.Clear();
-                        }
+                    if (Regex.IsMatch(country, @"^[a-zA-Z]+$"))
+                    {
+                        Console.WriteLine("\nHeyy...Welcome " + name + " from country " + country);
+                        break;
+                    }
+                    else
+                    {
+                        Console.WriteLine("\nPlease enter valid Country!!");
+                        Console.ReadKey();
+                        Console.Clear();
+                    }
                 }
                 else
                 {
@@ -41,8 +41,9 @@ namespace Practical2
                     Console.Clear();
                 }
 
-              
-            Console.ReadKey();
+
+                Console.ReadKey();
+            }
         }
     }
 }
