@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Practical4
+namespace Practical5
 {
     class StringConversion
     {

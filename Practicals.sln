@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practical1", "Practical1\Pr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practical2", "Practical2\Practical2.csproj", "{C4D455BA-D485-410E-AE86-C312FDAFD1D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practical3", "Practical3\Practical3.csproj", "{23A4E23C-C574-4473-8613-231F12870162}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practical3", "Practical3\Practical3.csproj", "{23A4E23C-C574-4473-8613-231F12870162}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practical4", "Practical4\Practical4.csproj", "{DFC76E31-5215-4337-80C7-24EF399B1D5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practical4", "Practical4\Practical4.csproj", "{DFC76E31-5215-4337-80C7-24EF399B1D5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practical5", "ConsoleApp1\Practical5.csproj", "{06E48617-DF47-4C31-8679-BD1C4CC67CD7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{DFC76E31-5215-4337-80C7-24EF399B1D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFC76E31-5215-4337-80C7-24EF399B1D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFC76E31-5215-4337-80C7-24EF399B1D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06E48617-DF47-4C31-8679-BD1C4CC67CD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06E48617-DF47-4C31-8679-BD1C4CC67CD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06E48617-DF47-4C31-8679-BD1C4CC67CD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06E48617-DF47-4C31-8679-BD1C4CC67CD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

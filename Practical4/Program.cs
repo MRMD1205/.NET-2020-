@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Practical4
+namespace Practical5
 {
     class Program
     {
